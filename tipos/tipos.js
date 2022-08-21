@@ -14,3 +14,9 @@ minhaIdade = 19;
 console.log(typeof minhaIdade);
 console.log(minhaIdade);
 // minhaIdade = "minha idade é 27";
+// array
+let hobbies = ["Cozinhar", "Jogar vídeogames"];
+console.log(typeof hobbies);
+console.log(hobbies[0]);
+hobbies = [12];
+console.log(hobbies);
