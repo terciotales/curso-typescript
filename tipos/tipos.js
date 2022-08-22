@@ -20,3 +20,6 @@ console.log(typeof hobbies);
 console.log(hobbies[0]);
 hobbies = [12];
 console.log(hobbies);
+// tuplas
+let endereco = ["Av Principal", 99];
+console.log(endereco);
