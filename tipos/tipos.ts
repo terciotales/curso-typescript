@@ -27,3 +27,24 @@ console.log(hobbies);
 // tuplas
 let endereco: [string, number] = ["Av Principal", 99];
 console.log(endereco);
+
+endereco = ["Rua importante", 120];
+console.log(endereco)
+
+// enums
+enum Cor {
+    Cinza,
+    Verde = 100,
+    Azul= 10,
+    Laranja,
+    Amarelo,
+    Vermelho = 100,
+    Roxo
+}
+
+let minhaCor: Cor = Cor.Verde;
+console.log(minhaCor);
+
+console.log(Cor.Verde);
+console.log(Cor.Laranja, Cor.Amarelo);
+console.log(Cor.Azul)

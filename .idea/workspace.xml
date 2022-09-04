@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3f3a66-01ea-4427-9baa-d4dbcb482b3a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/tipos/tipos.js" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/tipos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tipos/tipos.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/tipos.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +39,16 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.tipos.js">
     <configuration name="basico.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/introducao/basico.js" working-dir="$PROJECT_DIR$/introducao">
+      <method v="2" />
+    </configuration>
+    <configuration name="tipos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tipos/tipos.js" working-dir="$PROJECT_DIR$/tipos">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.tipos.js" />
         <item itemvalue="Node.js.basico.js" />
       </list>
     </recent_temporary>
@@ -61,7 +65,8 @@
       <workItem from="1661036591189" duration="18000" />
       <workItem from="1661036619922" duration="830000" />
       <workItem from="1661037467733" duration="1649000" />
-      <workItem from="1661041645283" duration="4229000" />
+      <workItem from="1661041645283" duration="4427000" />
+      <workItem from="1662249788951" duration="745000" />
     </task>
     <servers />
   </component>
