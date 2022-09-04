@@ -32,3 +32,10 @@ meuCliente.nome = "Han";
 saudarComOla(meuCliente);
 meuCliente.saudar("Solo");
 console.log(meuCliente.ultimaCompra);
+let potencia;
+potencia = (base, expo) => {
+    // Math.pow(base, expo);
+    // base ** expo
+    return Array(expo).fill(base).reduce((t, a) => t * a);
+};
+console.log(potencia(2, 2));
