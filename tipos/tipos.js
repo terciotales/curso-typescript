@@ -23,3 +23,26 @@ console.log(hobbies);
 // tuplas
 let endereco = ["Av Principal", 99];
 console.log(endereco);
+endereco = ["Rua importante", 120];
+console.log(endereco);
+// enums
+var Cor;
+(function (Cor) {
+    Cor[Cor["Cinza"] = 0] = "Cinza";
+    Cor[Cor["Verde"] = 100] = "Verde";
+    Cor[Cor["Azul"] = 10] = "Azul";
+    Cor[Cor["Laranja"] = 11] = "Laranja";
+    Cor[Cor["Amarelo"] = 12] = "Amarelo";
+    Cor[Cor["Vermelho"] = 100] = "Vermelho";
+    Cor[Cor["Roxo"] = 101] = "Roxo";
+})(Cor || (Cor = {}));
+let minhaCor = Cor.Verde;
+console.log(minhaCor);
+console.log(Cor.Verde);
+console.log(Cor.Laranja, Cor.Amarelo);
+console.log(Cor.Azul);
+// any
+let carro = "BMW";
+console.log(carro);
+carro = { marca: "BMW", ano: 2019 };
+console.log(carro);
