@@ -6,9 +6,9 @@ function mudarNome(pessoa) {
     pessoa.nome = "Joana";
 }
 const pessoa = {
-    nome: "João",
-    idade: 29
+    nome: "João"
 };
 saudarComOla(pessoa);
 mudarNome(pessoa);
 saudarComOla(pessoa);
+saudarComOla({ nome: "Jonas", idade: 22, altura: 1.82 });

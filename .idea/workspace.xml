@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3f3a66-01ea-4427-9baa-d4dbcb482b3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/interfaces/interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/interfaces.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interfaces/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/interfaces.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <workItem from="1661036619922" duration="830000" />
       <workItem from="1661037467733" duration="1649000" />
       <workItem from="1661041645283" duration="4427000" />
-      <workItem from="1662249788951" duration="1549000" />
+      <workItem from="1662249788951" duration="1915000" />
     </task>
     <servers />
   </component>
